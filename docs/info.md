@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+muesta con 4 entradas de codigo binario y 7 salidas usar y plasmar en un display de 7 segementos un contador
 
 ## How to test
 
